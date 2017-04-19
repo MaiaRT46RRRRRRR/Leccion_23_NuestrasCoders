@@ -1,0 +1,17 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.contenedor{
+	margin: 0;
+	padding: 0;
+	height: 660px;
+	width: 100%;
+	background-color: #C7FCFE;
+}
+
+hr{
+  border: 0;
+  width: 80%;
+}
+
